@@ -22,4 +22,7 @@ public class NewFile5 {
 
     public void pu1() {
     }
+
+    public void pu2() {
+    }
 }
