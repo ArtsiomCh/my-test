@@ -3,5 +3,62 @@
  */
 public class NewFile {
     public void f1() {
+        System.out.println("aba");
+
+
+            System.out.println("aba");
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    public void ff() {
+
     }
 }
