@@ -1,7 +1,7 @@
 /**
  * Created by Eugene.Kudelevsky on 21.10.2014.
  */
-public class NewFile7 {
+public class NewFile8 {
     public void f() {
     }
 
@@ -34,7 +34,6 @@ public class NewFile7 {
 
     public void pu2() {
     }
-
 
 
 
