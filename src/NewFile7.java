@@ -18,6 +18,15 @@ public class NewFile7 {
     }public void pu() {
     }
 
+
+
+
+
+
+
+
+
+
     public void pu1() {
     }
 
