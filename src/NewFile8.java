@@ -21,6 +21,7 @@ public class NewFile8 {
     public void pu2() {
     }
 
+
     public void pu3() {
     }
 
