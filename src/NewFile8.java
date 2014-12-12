@@ -10,10 +10,6 @@ public class NewFile8 {
 
 
 
-
-
-
-
     public void h() {
     }public void pu() {
     }
