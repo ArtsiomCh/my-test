@@ -8,12 +8,6 @@ public class NewFile5 {
     public void g() {
     }
 
-
-
-
-
-
-
     public void h() {
     }
 
