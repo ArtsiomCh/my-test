@@ -14,8 +14,12 @@ public class NewFile5 {
     public void pu() {
     }
 
+
+
     public void pu1() {
     }
+
+
 
     public void pu2() {
     }
