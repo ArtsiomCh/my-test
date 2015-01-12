@@ -3,8 +3,6 @@
  */
 public class NewFile3 {
 
-
-
     public void f() {
     }
 

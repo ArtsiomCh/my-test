@@ -17,7 +17,6 @@ public class NewFile7 {
 
     public void pu2() {
     }
-
     public void pu3() {
     }
 
