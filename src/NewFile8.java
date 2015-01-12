@@ -7,9 +7,6 @@ public class NewFile8 {
 
     public void g() {
     }
-
-
-
     public void h() {
     }public void pu() {
     }
