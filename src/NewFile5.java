@@ -13,7 +13,6 @@ public class NewFile5 {
     }
 
 
-
     public void pu() {
     }
 
