@@ -4,26 +4,6 @@
 public class NewFile4 {
 
 
-
-    public void f() {
-    }
-
-
-
-
-
-
-    public void g() {
-    }
-
-
-
-
-
-
-
-
-
     public void h() {
     }
 }
