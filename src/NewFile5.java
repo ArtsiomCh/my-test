@@ -10,6 +10,10 @@ public class NewFile5 {
 
 
     public void h() {
+        System.out.println();
+        System.out.println();
+        System.out.println();
+        System.out.println();
     }
 
 
