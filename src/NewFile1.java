@@ -5,6 +5,8 @@ public class NewFile1 {
     public void f() {
     }
 
+
+
     public void g() {
         int a = 1;
     }
@@ -13,27 +15,3 @@ public class NewFile1 {
     public void h() {
     }
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
