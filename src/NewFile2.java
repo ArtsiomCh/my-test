@@ -9,7 +9,6 @@ public class NewFile2 {
     public void g() {
     }
 
-
     public void h() {
     }
 }
