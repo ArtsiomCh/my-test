@@ -7,6 +7,7 @@ public class NewFile1 {
         int a = 1;
     }
 
+
     public void h() {
     }
 
