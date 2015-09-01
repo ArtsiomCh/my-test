@@ -8,8 +8,8 @@ public class NewFile1 {
     }
 
 
+
     public void h() {
-        // Привет
     }
 
 }
