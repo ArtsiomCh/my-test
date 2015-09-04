@@ -4,5 +4,6 @@
 public class NewNew {
     public static void main(String[] args) {
         // Привет
+
     }
 }
