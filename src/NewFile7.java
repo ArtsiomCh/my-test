@@ -3,7 +3,6 @@
  */
 public class NewFile7 {
 
-
     public void f() {
     }
     public void g() {
@@ -26,8 +25,70 @@ public class NewFile7 {
     public void pu4() {
     }
 
+
     public void pu5() {
     }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 }
 
 
