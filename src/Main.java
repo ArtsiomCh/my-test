@@ -5,5 +5,6 @@ public class Main {
 
 
         int a = 12;
+        int b = 10;
     }
 }
