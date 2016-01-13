@@ -6,8 +6,4 @@ public class NewFile1 {
     public void g() {
         int a = 1;
     }
-
-
-    public void h() {
-    }
 }
