@@ -6,6 +6,5 @@ public class NewNew {
         // Привет 11
 
         // Оооо
-
     }
 }
