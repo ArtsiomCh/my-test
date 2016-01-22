@@ -3,7 +3,7 @@
  */
 public class NewNew {
     public static void main(String[] args) {
-        // Привет 11
+        // 22 Привет
 
         // Оооо
     }
