@@ -4,6 +4,10 @@
 public class NewFile2 {
     public void f() {
     }
-    public void h() {
+    public void h(String param) {
+        if (param == null) {
+            System.out.println("hi");
+        }
+        System.out.println(param.length());
     }
 }
