@@ -11,5 +11,10 @@ public class NewFile2 {
         System.out.println(param.length());
         int a = 1;
         a += 2;
+        new NewFile3();
+    }
+
+    public static void main(String[] args) {
+        System.out.println("hi");
     }
 }
