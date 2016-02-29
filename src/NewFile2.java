@@ -11,7 +11,7 @@ public class NewFile2 {
         System.out.println(param.length());
         int a = 1;
         a += 2;
-        new NewFile3();
+        new NewFile3().f();
     }
 
     public static void main(String[] args) {
