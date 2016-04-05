@@ -36,8 +36,6 @@ public class NewFile8 {
 
 
 
-
-
     public void pu2() {
         System.out.println("hello");
         System.out.println("hello");
