@@ -15,6 +15,7 @@ public class NewFile2 {
         a += 2;
         new NewFile3().f();
     }
+
     public static void main(String[] args) {
         System.out.println("hi");
     }
