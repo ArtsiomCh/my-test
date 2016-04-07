@@ -14,7 +14,6 @@ public class NewFile2 {
         int a = 1;
         a += 2;
         new NewFile3().f();
-
     }
 
     public static void main(String[] args) {
