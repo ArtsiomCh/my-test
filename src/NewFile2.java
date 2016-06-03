@@ -8,6 +8,9 @@ public class NewFile2 {
         if (param == null) {
             System.out.println("hi");
             System.out.println("hi");
+            System.out.println("hi");
+            System.out.println("hi");
+            System.out.println("hi");
         }
         System.out.println(param.length());
         int a = 1;
