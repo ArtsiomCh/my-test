@@ -4,7 +4,7 @@
 public class NewFile1 {
 
     public void g() {
-        int a = 1;
+        INT A = 1;
 
     }
 }
