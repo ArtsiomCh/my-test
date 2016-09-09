@@ -454,7 +454,6 @@ public class NewFile8 {
         System.out.println("hello");
         System.out.println("hello");
         System.out.println("hello");
-        System.out.println("hello");
         System.out.println("hello");System.out.println("hello");
         System.out.println("hello");
         System.out.println("hello");
