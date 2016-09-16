@@ -7,10 +7,6 @@ public class NewFile2 {
     public void h(String param) {
         if (param == null) {
             System.out.println("hi");
-            System.out.println("hi");
-            System.out.println("hi");
-            System.out.println("hi");
-            System.out.println("hi");
         }
         System.out.println(param.length());
         int a = 1;
