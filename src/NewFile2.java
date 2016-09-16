@@ -12,6 +12,7 @@ public class NewFile2 {
         int a = 1;
         a += 2;
         new NewFile3().f();
+        String s = "New super text";
     }
 
     public static void main(String[] args) {
