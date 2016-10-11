@@ -2,8 +2,13 @@
  * Created by Eugene.Kudelevsky on 01.09.2015.
  */
 public class NewNew {
+    private final String myField = "HellO!";
+
     public static void main(String[] args) {
-        // 22 Привет
+    }
+
+    public void f() {
+        System.out.println(myField);
     }
 
 }
