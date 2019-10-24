@@ -5,6 +5,5 @@ public class NewFile1 {
 
     public void g() {
         INT A = 1;
-
     }
 }
