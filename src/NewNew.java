@@ -2,13 +2,13 @@
  * Created by Eugene.Kudelevsky on 01.09.2015.
  */
 public class NewNew {
-    private final String myField = "Hello!";
+    private final String myField1 = "Hello!";
 
     public static void main(String[] args) {
     }
 
     public void f() {
-        System.out.println(myField);
+        System.out.println(myField1);
     }
 
 }
