@@ -2,6 +2,7 @@
  * Created by Eugene.Kudelevsky on 21.10.2014.
  */
 public class NewFile5 {
+
     public void f() {
     }
 
@@ -16,7 +17,7 @@ public class NewFile5 {
     }
 
 
-    public void pu() {
+    public void pu0() {
     }
 
 
@@ -25,7 +26,10 @@ public class NewFile5 {
     }
 
 
-
     public void pu2() {
     }
+
+
+
+
 }
